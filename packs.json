@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "gulf",
+      "name": "Gulf and Saudi",
+      "name_ar": "الخليجية والسعودية",
+      "file": "packs/gulf.tsv",
+      "bytes": 587180,
+      "sha256": "4dd11fd09994add021c1d5fe6b2273813fdc2ba8e71704cfb3714cea0ab6c575",
+      "license": "MIT"
+    },
+    {
+      "id": "egyptian",
+      "name": "Egyptian",
+      "name_ar": "المصرية",
+      "file": "packs/egyptian.tsv",
+      "bytes": 587637,
+      "sha256": "0305cbf910505aa69978d3ec15bd8b10943333635d2f26c1b3aa578309946ccc",
+      "license": "MIT"
+    },
+    {
+      "id": "levantine",
+      "name": "Levantine",
+      "name_ar": "الشامية",
+      "file": "packs/levantine.tsv",
+      "bytes": 443429,
+      "sha256": "a981061d74619c4b2fda6fcc7602d41fe426fd75afd38fca65a927330e9d69f3",
+      "license": "MIT AND Apache-2.0"
+    },
+    {
+      "id": "iraqi",
+      "name": "Iraqi",
+      "name_ar": "العراقية",
+      "file": "packs/iraqi.tsv",
+      "bytes": 287809,
+      "sha256": "b1e585965bcc07b71a41e9db71e7981c84ec87324f41fa43c00d54c3084d9ae8",
+      "license": "MIT"
+    },
+    {
+      "id": "moroccan",
+      "name": "Moroccan (Darija)",
+      "name_ar": "المغربية (الدارجة)",
+      "file": "packs/moroccan.tsv",
+      "bytes": 542105,
+      "sha256": "73b029ee2e78b473f68ad73b5c9513614c2a0abae4a0349420835bcf302b9ae0",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}
